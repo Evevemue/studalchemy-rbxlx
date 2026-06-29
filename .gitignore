@@ -1,0 +1,10 @@
+# Project place file
+/studalchemy-rbxlx.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+Packages/
+ServerPackages/
+wally.lock
+sourcemap.json
